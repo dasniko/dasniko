@@ -6,6 +6,8 @@ Love to code and to dev-ops in and for the AWS ☁️  cloud.
 
 One of my main focus and core area is development and consulting around Keycloak SSO 🔐  (no, I'm not involved in the product or Red Hat, but my kudos go to the whole team who does an awesome job!).
 
+See some of my Keycloak demo SPI implementations, which are always a good start to customize your own Keycloak server:
+
 <!--
 **dasniko/dasniko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
