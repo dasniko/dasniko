@@ -1,27 +1,24 @@
 # Hi there 👋
 
-I'm Niko, a freelance software developer and trainer, mainly focused on Java and JavaScript projects.
-Working for customers from (nearly) all industries.
-Love to code and to dev-ops in and for the AWS ☁️  cloud.
+## It's me, Niko! 👨‍💻
 
-One of my main focus and core area is development and consulting around Keycloak SSO 🔐  (no, I'm not involved in the product or Red Hat, but my kudos go to the whole team who does an awesome job!).
+I'm Niko, a freelance software developer, **Keycloak Expert** and trainer, mainly focused on **Java** and JavaScript projects.
+Working for customers across industries in whole Europe.
+Love to code and to DevOps in and for the **AWS** ☁️  cloud.
 
-Check out my YouTube channel, where I put also a few videos on how to do things with Keycloak:  
-🎥  https://www.youtube.com/c/NikoKöbler?sub_confirmation=1 🎞
+## Focus 👀
 
-See also some of my Keycloak demo SPI implementations, which are always a good start to customize your own Keycloak server:
+One of my main focus and core area is consulting, training and development around **Keycloak IAM & SSO** 🔐  (no, I'm not involved in the product nor Red Hat, but my kudos go to the whole team who does an awesome job!).
 
-<!--
-**dasniko/dasniko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## YouTube Channel 🎥
 
-Here are some ideas to get you started:
+Check out my **YouTube channel**, where I put also a few videos on how to do things with **Keycloak**:
+* [@dasniko on YouTube](https://www.youtube.com/c/NikoKöbler?sub_confirmation=1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact 📝
+
+Visit my website [www.n-k.de](https://www.n-k.de) for more information, contact details and also **direct booking** options _(lower right corner)_ for **Keycloak support** and trainings/workshops.
+
+## Keycloak Examples 🚧
+
+See also some of my **Keycloak** example SPI implementations, which are always a good start to customize your own Keycloak server:
