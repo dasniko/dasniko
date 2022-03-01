@@ -6,9 +6,13 @@ I'm Niko, a freelance software developer, **Keycloak Expert** and trainer, mainl
 Working for customers across industries in whole Europe.
 Love to code and to DevOps in and for the **AWS** ☁️  cloud.
 
+[![dasniko's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasniko&count_private=true&show_icons=true&&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Focus 👀
 
 One of my main focus and core area is consulting, training and development around **Keycloak IAM & SSO** 🔐  (no, I'm not involved in the product nor Red Hat, but my kudos go to the whole team who does an awesome job!).
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasniko&layout=compact&hide=scss,css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ## YouTube Channel 🎥
 
