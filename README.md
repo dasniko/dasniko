@@ -26,3 +26,5 @@ Visit my website [www.n-k.de](https://www.n-k.de) for more information, contact 
 ## Keycloak Examples 🚧
 
 See also some of my **Keycloak** example SPI implementations, which are always a good start to customize your own Keycloak server:
+
+<a rel="me" href="https://mastodon.cloud/@dasniko"></a>
